@@ -2,7 +2,7 @@
 
 DESCRIPTION:
 
-ETHOS is a modern and elegant one-page free resume website template. A perfect tool that would 
+____ is a modern and elegant one-page free resume website template. A perfect tool that would 
 help you craft a personal website where you can advertise yourself showcasing your skills, 
 talents, portfolio, and work experiences. It provides you the necessary website elements 
 and features for creating an impressive and beautiful online resume that would capture 
@@ -23,7 +23,7 @@ Rights:
 You are permitted to use this free resource in any number of personal and commercial projects for 
 yourself or a client. You may modify the resource according to your requirements and include them 
 in your projects under the following condition - you MUST give appropriate credit, provide an 
-attribution link to styleshout.com.
+attribution link to ____.com.
 
 
 Prohibitions:
@@ -58,7 +58,7 @@ credit removal fee of 10 USD through Paypal. This will allow you to use a single
 template attribution/credit link free on ONE DOMAIN name.
 
 You can send your payments through Paypal to this address: ealigam@gmail.com or
-visit our attribution removal page: https://www.styleshout.com/attribution-free/ 
+visit our attribution removal page: https://www.____.com/attribution-free/ 
 and click the pay button on the page.
 
 If possible, kindly send us the site's url where the template is being used. 
